@@ -1,0 +1,21 @@
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_obj\Debug\catch game.csprojResolveAssemblyReference.cache
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\dev\Projects\catchgame\catch game\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
